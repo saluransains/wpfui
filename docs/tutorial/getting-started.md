@@ -26,7 +26,7 @@ There should be a file called `App.xaml` in your new application. Add new dictio
 You can choose a color theme here,  
 `Light` or `Dark`.
 
-## The main window
+## The main windows
 
 There should be a `MainWindow.xaml` file in your newly created application.  
 It contains the arrangement of the controls used and their parameters.
